@@ -1,0 +1,3 @@
+*.pass
+.venv/*
+.idea/*
