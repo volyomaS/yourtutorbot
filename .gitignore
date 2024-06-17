@@ -1,3 +1,4 @@
 *.pass
 .venv/*
 .idea/*
+*__pycache__
